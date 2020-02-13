@@ -1,0 +1,45 @@
+*{
+    color: black;
+    font-family: sans-serif;
+}
+h1{
+    color: white;
+}
+body{
+    background-color: rgb(48, 47, 63)
+
+}
+select{
+    color:black;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.panels{
+    display: flex;
+    justify-content: center;
+}
+
+.panel{
+    padding: 50px;
+    margin: 10px;
+    width: 600px;
+    height: 550px;
+    float: left;
+    background: rgba(255, 255, 255, 0.795);
+}
+.panel h4, .panel span{
+    color:black;
+    margin: 25px 30px;
+}
+
+.img{
+    margin: 10px auto;
+    background-color: black;
+    width: 500px;
+    height: 350px;
+}
