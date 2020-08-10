@@ -1,2 +1,2 @@
 # assignment-5
-compare page
+my js code for a compare page
